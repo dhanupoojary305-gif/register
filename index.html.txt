@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>registration with your name </title>
+</head>
+<body>
+<h1>make a registration with your name</h1>
+<from id="basic From">
+<label>name:<input type="text" required>
+<button type="submit></button>
+</From>
+<h3 id="success message"style="display!name">
+</h3>
+</html>
+
